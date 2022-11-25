@@ -1,0 +1,15 @@
+H:\Görsel programlama\radyo\bin\Debug\radyo.exe.config
+H:\Görsel programlama\radyo\bin\Debug\radyo.exe
+H:\Görsel programlama\radyo\bin\Debug\radyo.pdb
+H:\Görsel programlama\radyo\bin\Debug\Interop.WMPLib.dll
+H:\Görsel programlama\radyo\bin\Debug\AxInterop.WMPLib.dll
+H:\Görsel programlama\radyo\obj\Debug\radyo.csproj.AssemblyReference.cache
+H:\Görsel programlama\radyo\obj\Debug\Interop.WMPLib.dll
+H:\Görsel programlama\radyo\obj\Debug\AxInterop.WMPLib.dll
+H:\Görsel programlama\radyo\obj\Debug\radyo.csproj.ResolveComReference.cache
+H:\Görsel programlama\radyo\obj\Debug\radyo.Form1.resources
+H:\Görsel programlama\radyo\obj\Debug\radyo.Properties.Resources.resources
+H:\Görsel programlama\radyo\obj\Debug\radyo.csproj.GenerateResource.cache
+H:\Görsel programlama\radyo\obj\Debug\radyo.csproj.CoreCompileInputs.cache
+H:\Görsel programlama\radyo\obj\Debug\radyo.exe
+H:\Görsel programlama\radyo\obj\Debug\radyo.pdb
